@@ -1,0 +1,22 @@
+
+  p.one{
+    border-style: solid;
+    border-color: blue;
+  }
+  p.two{
+    border-style: double;
+    border-color: darkorange;
+  }
+  p.three{
+    border-style: dotted;
+    border-color: darkgreen;
+  }
+    .p1{
+      font-family: monospace;
+    }  
+    .p2{
+      font-family: cursive;
+    }
+    .p3{
+      font-family: sans-serif ;
+      }
